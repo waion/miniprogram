@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="132px" viewBox="0 0 132 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 2 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="55" r="55"></circle>
+        <filter x="-17.3%" y="-12.7%" width="134.5%" height="134.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.0670095792   0 0 0 0 0.157631803  0 0 0 0.119565217 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1.0.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="服务商-" transform="translate(-420.000000, -1051.000000)">
+            <g id="分组-2-copy" transform="translate(431.000000, 1057.000000)">
+                <g id="椭圆形" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#D5E3FA" xlink:href="#path-1"></use>
+                </g>
+                <g id="system-cancel-bold" transform="translate(54.806912, 55.745315) rotate(-315.000000) translate(-54.806912, -55.745315) translate(42.806912, 43.745315)" fill="#4289FF" stroke="#4289FF" stroke-width="2.5">
+                    <polygon id="路径" points="23.2444664 21.6763474 21.6807517 23.240088 11.6529728 13.2123091 1.56806725 23.2971369 -8.51635159e-14 21.7290438 10.0848537 11.6441641 0.00437841165 1.56371475 1.56809316 -1.27721941e-13 11.6485685 10.0804753 21.7290438 2.53014906e-13 23.2971369 1.56809316 13.2166616 11.6485685"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

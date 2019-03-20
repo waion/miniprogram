@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>分组</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新建服务商--详细信息" transform="translate(-32.000000, -447.000000)">
+            <g id="分组" transform="translate(32.000000, 447.000000)">
+                <rect id="矩形" fill="#4289FF" fill-rule="nonzero" x="0" y="0" width="24" height="24" rx="2"></rect>
+                <g id="system-selects" transform="translate(4.000000, 6.250000)" fill="#FFFFFF">
+                    <polygon id="路径" points="5.69992475 8.5663476 14.1273096 0.138962795 15.6828317 1.69446773 5.70530444 11.671995 5.69989038 11.6665981 5.69452787 11.6719434 0.300035655 6.27746838 1.85554059 4.72194625 5.69994194 8.5663476"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

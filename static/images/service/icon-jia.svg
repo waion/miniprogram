@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="118px" viewBox="0 0 118 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="118" height="118" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="118" height="118" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新建服务商--基本信息" transform="translate(-600.000000, -1672.000000)" stroke="#CDCFD2">
+            <g id="分组-copy" transform="translate(600.000000, 1672.000000)">
+                <use id="矩形" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" fill-rule="nonzero" stroke-dasharray="4" xlink:href="#path-1"></use>
+                <polygon id="路径" fill="#CDCFD2" transform="translate(59.330880, 59.330880) rotate(-315.000000) translate(-59.330880, -59.330880) " points="70.6105264 69.0851743 69.0894585 70.6062674 59.3351644 60.8519734 49.5253018 70.6617605 48 69.1364335 57.8098122 59.326596 48.004259 49.521068 49.525327 48 59.3308802 57.8055532 69.1364335 48 70.6617605 49.525327 60.8562072 59.3308802"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
